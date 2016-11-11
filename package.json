@@ -1,0 +1,18 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nothing"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "afraidspy",
+  "license": "ISC"
+}
